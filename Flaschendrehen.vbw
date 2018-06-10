@@ -1,0 +1,4 @@
+clsDMXCPlugIn = -27, 21, 792, 729, C
+DMXCTutorLL = 95, 45, 879, 857, C
+frmAbout = 64, 155, 911, 563, C, 50, 99, 869, 845, C
+frmFlaschendrehen = 111, 48, 932, 718, , 16, 209, 586, 665, C
