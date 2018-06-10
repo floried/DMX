@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<device image='light.gif'>
+<information>
+<name>RGB-Matrix</name>
+<author>automatic generated</author>
+</information>
+<channels>
+<function channel='0' maxvalue='255' name='R-0-0' fade='yes' type='color'/>
+<function channel='1' maxvalue='255' name='G-0-0' fade='yes' type='color'/>
+<function channel='2' maxvalue='255' name='B-0-0' fade='yes' type='color'/>
+<function channel='2' maxvalue='255' name='R-1-0' fade='yes' type='color'/>
+<function channel='3' maxvalue='255' name='G-1-0' fade='yes' type='color'/>
+<function channel='4' maxvalue='255' name='B-1-0' fade='yes' type='color'/>
+<function channel='4' maxvalue='255' name='R-2-0' fade='yes' type='color'/>
+<function channel='5' maxvalue='255' name='G-2-0' fade='yes' type='color'/>
+<function channel='6' maxvalue='255' name='B-2-0' fade='yes' type='color'/>
+<function channel='6' maxvalue='255' name='R-3-0' fade='yes' type='color'/>
+<function channel='7' maxvalue='255' name='G-3-0' fade='yes' type='color'/>
+<function channel='8' maxvalue='255' name='B-3-0' fade='yes' type='color'/>
+<function channel='8' maxvalue='255' name='R-0-1' fade='yes' type='color'/>
+<function channel='9' maxvalue='255' name='G-0-1' fade='yes' type='color'/>
+<function channel='10' maxvalue='255' name='B-0-1' fade='yes' type='color'/>
+<function channel='10' maxvalue='255' name='R-1-1' fade='yes' type='color'/>
+<function channel='11' maxvalue='255' name='G-1-1' fade='yes' type='color'/>
+<function channel='12' maxvalue='255' name='B-1-1' fade='yes' type='color'/>
+<function channel='12' maxvalue='255' name='R-2-1' fade='yes' type='color'/>
+<function channel='13' maxvalue='255' name='G-2-1' fade='yes' type='color'/>
+<function channel='14' maxvalue='255' name='B-2-1' fade='yes' type='color'/>
+<function channel='14' maxvalue='255' name='R-3-1' fade='yes' type='color'/>
+<function channel='15' maxvalue='255' name='G-3-1' fade='yes' type='color'/>
+<function channel='16' maxvalue='255' name='B-3-1' fade='yes' type='color'/>
+<function channel='16' maxvalue='255' name='R-0-2' fade='yes' type='color'/>
+<function channel='17' maxvalue='255' name='G-0-2' fade='yes' type='color'/>
+<function channel='18' maxvalue='255' name='B-0-2' fade='yes' type='color'/>
+<function channel='18' maxvalue='255' name='R-1-2' fade='yes' type='color'/>
+<function channel='19' maxvalue='255' name='G-1-2' fade='yes' type='color'/>
+<function channel='20' maxvalue='255' name='B-1-2' fade='yes' type='color'/>
+<function channel='20' maxvalue='255' name='R-2-2' fade='yes' type='color'/>
+<function channel='21' maxvalue='255' name='G-2-2' fade='yes' type='color'/>
+<function channel='22' maxvalue='255' name='B-2-2' fade='yes' type='color'/>
+<function channel='22' maxvalue='255' name='R-3-2' fade='yes' type='color'/>
+<function channel='23' maxvalue='255' name='G-3-2' fade='yes' type='color'/>
+<function channel='24' maxvalue='255' name='B-3-2' fade='yes' type='color'/>
+<function channel='24' maxvalue='255' name='R-0-3' fade='yes' type='color'/>
+<function channel='25' maxvalue='255' name='G-0-3' fade='yes' type='color'/>
+<function channel='26' maxvalue='255' name='B-0-3' fade='yes' type='color'/>
+<function channel='26' maxvalue='255' name='R-1-3' fade='yes' type='color'/>
+<function channel='27' maxvalue='255' name='G-1-3' fade='yes' type='color'/>
+<function channel='28' maxvalue='255' name='B-1-3' fade='yes' type='color'/>
+<function channel='28' maxvalue='255' name='R-2-3' fade='yes' type='color'/>
+<function channel='29' maxvalue='255' name='G-2-3' fade='yes' type='color'/>
+<function channel='30' maxvalue='255' name='B-2-3' fade='yes' type='color'/>
+<function channel='30' maxvalue='255' name='R-3-3' fade='yes' type='color'/>
+<function channel='31' maxvalue='255' name='G-3-3' fade='yes' type='color'/>
+<function channel='32' maxvalue='255' name='B-3-3' fade='yes' type='color'/>
+</channels>
+<form width='300' height='150'>
+<deviceimage top='0' left='0'/>
+<devicename top='0' left='40'/>
+<deviceadress top='16' left='40'/>
+</form>
+</device>
